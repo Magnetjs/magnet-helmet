@@ -96,7 +96,7 @@
     }
   },
   "dependencies": {
-    "koa-helmet": "^2.0.0-alpha.1",
+    "koa-helmet": "^3.0.0",
     "magnet-core": "^1.1.0"
   },
   "devDependencies": {
